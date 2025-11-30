@@ -1,18 +1,30 @@
 {
-    "id": 57436521,
-    "name": "SampleLevel1",
-    "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "id": 126242564,
+    "name": "Flamewall",
+    "author": "Narwall",
+    "creators": ["Narwall"],
+    "verifier": "Cuatrocientos",
+    "verification": "https://youtu.be/x4Io4zkWVRw",
     "percentToQualify": 56,
     "password": "Not Copyable",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "PowerGreen",
+            "link": "https://www.youtube.com/watch?v=pWghxYp8XHE",
             "percent": 100,
-            "hz": 360
+            "hz": 60
+        },
+        {
+            "user": "Zoink",
+            "link": "https://www.youtube.com/watch?v=4HIDQPlRP6k",
+            "percent": 99,
+            "hz": 360  
+        },
+        {
+            "user": "zLevii",
+            "link": "https://www.youtube.com/watch?v=yFrTqPZs2w0",
+            "percent": 68,
+            "hz": 360  
         }
     ]
 }
